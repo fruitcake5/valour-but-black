@@ -1,0 +1,11 @@
+{
+  "manifest_version": 2,
+  "name": "Valour But Grey",
+  "version": "1.0.0",
+  "description": "The final solution.",
+  "icons": { "16": "icon.png", "48": "icon.png", "128": "icon.png" },
+  "content_scripts": [{
+    "css": ["style.css"],
+    "matches": ["*://valour.gg/*"]
+  }]
+}
