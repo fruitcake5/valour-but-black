@@ -69,7 +69,7 @@
   font-family: "Helvetica Neue",Helvetica,Arial,sans-serif !important;
 }
 *::-webkit-scrollbar-track {
-  background: #2f3136 !important;
+  background: #000000 !important;
   border: 4px solid transparent !important;
   border-radius: 8px !important;
   background-clip: padding-box !important;
@@ -94,11 +94,11 @@
   --alt-border-color: #666666 !important;
   --input-color: #000000 !important;
   --comment-hue: rgba(0, 0, 0, 0.02) !important;
-  --main-1: #202225 !important;
-  --main-2: #2f3136 !important;
-  --main-3: #202223 !important;
-  --main-4: #36393f !important;
-  --main-5: #212f3a !important;
+  --main-1: #000000 !important;
+  --main-2: #000000 !important;
+  --main-3: #000000 !important;
+  --main-4: #000000 !important;
+  --main-5: #000000 !important;
 }
 .sidebar-2 .category {
   max-width: 269px !important;
